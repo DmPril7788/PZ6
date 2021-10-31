@@ -11,7 +11,7 @@ function canvas(selector, options){
    const rect = canvas.getBoundingClientRect();
 
   // ...
-}
+
 
 
  let isPaint = false // чи активно малювання
